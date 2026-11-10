@@ -81,8 +81,6 @@ For automated integrations, follow this simple flow:
 ## Integration options overview
 
 <DetailIconCards>
-<a href="/docs/auth/overview" title="Managed Better Auth" 
-   description="Add sign-up and sign-in to your Vercel app with Neon's managed auth service. Users live in your Postgres database, and preview branches get their own auth." icon="lock-landscape">Managed Better Auth</a>
 <a href="/docs/guides/vercel-managed-integration" title="Vercel-Managed Integration" 
    description="Create and manage Neon databases directly from your Vercel dashboard. Supports preview branches." icon="vercel">Vercel-Managed Integration</a>
 <a href="/docs/guides/neon-managed-vercel-integration" title="Neon-Managed Integration" 
